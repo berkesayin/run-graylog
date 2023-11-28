@@ -1,2 +1,0 @@
-Run Graylog Server Using Docker Compose
-
