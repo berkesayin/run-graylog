@@ -1,4 +1,4 @@
-# Run Graylog Server With Docker
+# Run Graylog Server With Docker Compose
 
 This repository is created to run `Graylog Server` with `Docker Compose` using `containers`.
 
