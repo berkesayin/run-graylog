@@ -16,7 +16,7 @@ docker-compose up
 
 - Access `Graylog Server` [here.](http://localhost:9000)
 
-#### Screenshots
+### Screenshots
 
 Docker Desktop after running `docker-compose.yml`. You can also check containers with `docker ps`
 
